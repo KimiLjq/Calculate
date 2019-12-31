@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tax_class">
+        <item>固定月薪</item>
+        <item>年终奖</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>广州</item>
+        <item>北京</item>
+        <item>上海</item>
+    </string-array>
+</resources>

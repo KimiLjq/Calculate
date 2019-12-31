@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:columnCount="4"
+    android:orientation="horizontal"
+    android:rowCount="6">
+
+
+    <Button
+        android:id="@+id/bt_back"
+        android:text="回退"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_clean"
+        android:text="清空"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_left_bracket"
+        android:text="("
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_right_bracket"
+        android:text=")"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_one"
+        android:text="1"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_two"
+        android:text="2"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_three"
+        android:text="3"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_add"
+        android:text="+"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_four"
+        android:text="4"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_five"
+        android:text="5"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_six"
+        android:text="6"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_sub"
+        android:text="-"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_seven"
+        android:text="7"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_eight"
+        android:text="8"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_nine"
+        android:text="9"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_multiply"
+        android:text="*"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_point"
+        android:text="."
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_zeno"
+        android:text="0"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_equal"
+        android:text="="
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_divide"
+        android:text="/"
+        android:textSize="20sp" />
+
+</GridLayout>
